@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4oz6CewJcJgMnu7JH4A6r42bbSXAxOSZSxYNZxBugtrRqkm0MbiMxcgZRHviCL+0fL5odbMLW5cOyfFsS9IBg==",
+  "dgSpecHash": "vGLqhKD8AMyhGhCod6AbBFvHDoytYHAnSkoo3MbDdjkmJIm8mUUj6F8hF6CR2v99z6K3LPclMMk2naaWbQwh+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enes\\Desktop\\c# eğitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
+  "projectFilePath": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enes\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\enes\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

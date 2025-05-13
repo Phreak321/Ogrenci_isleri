@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bilisim.HelloMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d66a24e29546a82fdc5371fd2ef6cd590ccde6bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07bb05e0ded9dfc48480f5236855005bdf10aa2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bilisim.HelloMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bilisim.HelloMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

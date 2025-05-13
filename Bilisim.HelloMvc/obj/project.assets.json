@@ -11214,11 +11214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes\\Desktop\\c# eğitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
+      "projectUniqueName": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
       "projectName": "Bilisim.HelloMvc",
-      "projectPath": "C:\\Users\\enes\\Desktop\\c# eğitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
+      "projectPath": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj",
       "packagesPath": "C:\\Users\\enes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes\\Desktop\\c# eğitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\obj\\",
+      "outputPath": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enes\\AppData\\Roaming\\NuGet\\NuGet.Config",

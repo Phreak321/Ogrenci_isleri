@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\",
+  "WorkspaceRootPath": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\data\\ogrencidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\data\\ogrencidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\data\\ogrencidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\ogrenci\\ogrencidetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\ogrenci\\ogrencidetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\ogrenci\\ogrencidetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\ogrenci\\yeni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\ogrenci\\yeni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\ogrenci\\yeni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\ogrenci\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\ogrenci\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\ogrenci\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\desktop\\c# e\u011Fitim\\ogrenciislemleriproje\\bilisim.hellomvc_25\\bilisim.hellomvc\\migrations\\20250512175400_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|c:\\users\\enes\\documents\\github\\ogrenci_isleri\\bilisim.hellomvc\\migrations\\20250512175400_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B492790-BCA0-433D-8EAD-7A74364D5560}|Bilisim.HelloMvc\\Bilisim.HelloMvc.csproj|solutionrelative:bilisim.hellomvc\\migrations\\20250512175400_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,36 +70,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OgrenciController.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
               "RelativeToolTip": "Bilisim.HelloMvc\\Controllers\\OgrenciController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAuwFIAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA+wFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:57:55.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250512175400_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
-              "RelativeToolTip": "Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:54:00.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\appsettings.json",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\appsettings.json",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\appsettings.json",
               "RelativeToolTip": "Bilisim.HelloMvc\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -109,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OgrenciDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
               "RelativeToolTip": "Bilisim.HelloMvc\\Data\\OgrenciDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AnaSayfa.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\Ogrenci\\AnaSayfa.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -133,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Yeni.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\Ogrenci\\Yeni.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -143,11 +131,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Program.cs",
+              "RelativeToolTip": "Bilisim.HelloMvc\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:25:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250512175400_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
+              "RelativeToolTip": "Bilisim.HelloMvc\\Migrations\\20250512175400_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:54:00.473Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -157,9 +170,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OgrenciDetay.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\Ogrenci\\OgrenciDetay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -169,9 +182,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -179,23 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Program.cs",
-              "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Program.cs",
-              "RelativeToolTip": "Bilisim.HelloMvc\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T11:25:52.344Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Guncelle.cshtml",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
               "RelativeToolTip": "Bilisim.HelloMvc\\Views\\Ogrenci\\Guncelle.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -205,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Hayvan.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Hayvan.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Hayvan.cs",
               "RelativeDocumentMoniker": "Bilisim.HelloMvc\\Hayvan.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\c# e\u011Fitim\\OgrenciIslemleriProje\\Bilisim.HelloMvc_25\\Bilisim.HelloMvc\\Hayvan.cs",
+              "ToolTip": "C:\\Users\\enes\\Documents\\GitHub\\Ogrenci_isleri\\Bilisim.HelloMvc\\Hayvan.cs",
               "RelativeToolTip": "Bilisim.HelloMvc\\Hayvan.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
